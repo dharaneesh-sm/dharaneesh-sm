@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharaneesh S</h1>
 <h3 align="center">Java Programmer | MERN Stack Developer</h3>
+<img src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711" alt="Computer man" style="width:500px;height:300px;">
 <img align="right" alt="Programmer" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharaneesh-sm&label=Profile%20views&color=0e75b6&style=flat" alt="dharaneesh-sm" /> </p>
