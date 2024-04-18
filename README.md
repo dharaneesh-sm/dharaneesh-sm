@@ -1,5 +1,4 @@
 <h2 align="left">Hi !👋 I am Dharaneesh S</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharaneesh-sm&label=Profile%20views&color=0e75b6&style=flat" alt="dharaneesh-sm" /> </p>
 
 ###
 
@@ -51,6 +50,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/dharaneesh-sm/dharaneesh-sm/output/snake.svg" alt="Snake animation" />
 
