@@ -60,11 +60,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
 </div>
 
-###
+
 <br clear="both">
-###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/dharaneesh-sm/count.svg?"  />
 </div>
 
-###
+
