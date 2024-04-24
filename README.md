@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I am Dharaneesh S</h2>
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/dharaneesh_s/)
-###
+[![ProfileViews](https://komarev.com/ghpvc/?username=dharaneesh-sm&color=red&style=flat)](https://komarev.com/ghpvc/?username=dharaneesh-sm)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharaneesh-sm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
