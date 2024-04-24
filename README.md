@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! I am Dharaneesh S</h2>
-[![ProfileViews](https://komarev.com/ghpvc/?username=dharaneesh-sm&color=red&style=flat)](https://komarev.com/ghpvc/?username=dharaneesh-sm)
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharaneesh-sm&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
