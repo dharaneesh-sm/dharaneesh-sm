@@ -1,5 +1,6 @@
 # 💫 About Me:
-Programmer | Developer
+I am an efficient programmer who loves backend development. I thrive on creating robust, scalable systems that ensure seamless functionality and top performance.
+
 
 
 ## 🌐 Socials:
