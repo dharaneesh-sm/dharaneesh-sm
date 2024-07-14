@@ -1,7 +1,5 @@
 ### 💫 About Me:
-### Hi there! 😄 I'm an enthusiastic programmer with a passion for backend development. 🔧 I love building strong, scalable systems that guarantee smooth functionality and top-notch performance. 🚀✨
-
-
+Hi there! 😄 I'm an efficient programmer with a deep passion for backend development. 🔧 I love learning new technologies and methodologies to improve my skills. 📚✨ I enjoy solving complex problems and delivering robust solutions, 🧩💪 while staying updated with the latest industry trends. 🌟📈
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharaneesh._.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharaneesh-s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dharaneesh_S) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23195657) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dharaneesh_007) 
