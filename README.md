@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=dharaneesh-sm&icon=5&color=0)](https://visitcount.itsvg.in)
 ### 💫 About Me:
 <h4>Hi there! 😄 I'm an efficient programmer with a deep passion for backend development. 🔧 I love learning new technologies and methodologies to improve my skills. 📚✨ I enjoy solving complex problems and delivering robust solutions, 🧩💪 while staying updated with the latest industry trends. 🌟📈</h4>
 
@@ -12,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-sm&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dharaneesh-sm&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
