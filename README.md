@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=dharaneesh-sm&icon=5&color=0)](https://visitcount.itsvg.in)
 ### 💫 About Me:
-<h4>Hi there! 😄 I'm an efficient programmer with a deep passion for backend development. 🔧 I love learning new technologies and methodologies to improve my skills. 📚✨ I enjoy solving complex problems and delivering robust solutions, 🧩💪 while staying updated with the latest industry trends. 🌟📈</h4>
+<h4>Hi there! 😄 I'm an efficient programmer with a deep passion for Full Stack development. 🔧 I love learning new technologies and methodologies to improve my skills. 📚✨ I enjoy solving complex problems and delivering robust solutions, 🧩💪 while staying updated with the latest industry trends. 🌟📈</h4>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharaneesh._.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dharaneesh-s) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dharaneesh_S) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23195657) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dharaneesh_007) 
