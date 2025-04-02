@@ -14,4 +14,8 @@
 
 ---
 
+![Snake animation](https://platane.github.io/snk/)
+
 ![Snake animation](https://github.com/dharaneesh-sm/dharaneesh-sm/blob/output/github-contribution-grid-snake.svg)
+
+
