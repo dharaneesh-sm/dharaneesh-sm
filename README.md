@@ -14,5 +14,4 @@
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/dharaneesh-sm/dharaneesh-sm/blob/output/github-contribution-grid-snake.svg)
